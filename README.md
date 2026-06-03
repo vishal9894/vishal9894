@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vishal!<br><br>💼 Currently working as a **Junior MERN Stack Developer at JetQuin Technologies**  <br>💻 I build dynamic and scalable apps using the **MERN Stack**  <br>📚 Learning more about **System Design, REST APIs & Authentication**  <br>🔗 Passionate about real-world development & clean architecture  <br>🌐 Let’s connect & collaborate!<br>
+👋 Hi, I’m Vishal!<br><br>💼 Currently working as a **Full Stack Developer at Teachmania Private Limited**  <br>💻 I build dynamic and scalable apps using the **MERN Stack**  <br>📚 Learning more about **System Design, REST APIs & Authentication**  <br>🔗 Passionate about real-world development & clean architecture  <br>🌐 Let’s connect & collaborate!<br>
 
 
 # 💻 Tech Stack:
